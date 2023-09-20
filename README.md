@@ -2,6 +2,7 @@
 
 ## Overview
 The Bayesian-Classification repository is a Bayesian data modeling pipeline for predicting breast cancer diagnosis based on cell nuclei features. The dataset used for this task is the [Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)) dataset.
+
 This pipeline includes data preprocessing, exploratory analysis, data modeling, and model evaluation. Notably, it compares the performance of different models under both Bayesian and Frequentist frameworks. 
 Bayesian Lasso and Bayesian Logistic Regression exhibit a 20% improvement in model accuracy compared to Frequentist methods.
 
